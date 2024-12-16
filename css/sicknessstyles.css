@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: teal;
+}
+
+.common-cold {
+    font-size: 15px;
+    color: aliceblue;
+    position: absolute;
+    min-height: 150px;
+    width: 300px;
+}
+
+.covid-19 {
+    font-size: 15px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-height: 150px;
+    width: 300px;
+}
+
+.influenza {
+    font-size: 15px;
+    color: antiquewhite;
+    text-decoration: none;
+    min-height: 150px;
+    width: 300px;
+
+}
+
+.hpv {
+    font-size: 25px;
+    color: aliceblue;
+    min-height: 150px;
+    width: 250px;
+}
